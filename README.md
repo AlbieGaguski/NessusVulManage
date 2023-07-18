@@ -15,7 +15,7 @@ This Project will use a virtual machine to show how to manage and remediate vuln
 
 - <b>Windows 10 on both Virtual Machine and Host machine</b> (21H2)
 
-<h2>Lab Overvoew:</h2>
+<h2>Lab Overview:</h2>
 
 <p align="center">
   [Quick Note: After I installed the Virtual Machine with a Windows 10 iso I made sure to bridge the VM and my host machine together so that they could communicate easier for the sake of demonstration. I HIGHLY recommend NOT doing this at home because it can compromise security for your system if not done correctly.]
